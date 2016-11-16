@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{907E685A-A306-4E62-ACAF-66995FC74EF1}"
+	ProjectSection(SolutionItems) = preProject
+		MHColor\color_map_construct.cs = MHColor\color_map_construct.cs
+		MHColor\Form1.cs = MHColor\Form1.cs
+		MHColor\Form1.Designer.cs = MHColor\Form1.Designer.cs
+		MHColor\Form1.resx = MHColor\Form1.resx
+		MHColor\Form2.cs = MHColor\Form2.cs
+		MHColor\Form2.Designer.cs = MHColor\Form2.Designer.cs
+		MHColor\Form2.resx = MHColor\Form2.resx
+		MHColor\MHColor_V1.0.csproj = MHColor\MHColor_V1.0.csproj
+		MHColor\Program.cs = MHColor\Program.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHColor_V1.0", "MHColor\MHColor_V1.0.csproj", "{0346153D-230A-4284-90D5-A8B4683E050B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0346153D-230A-4284-90D5-A8B4683E050B}.Debug|x86.ActiveCfg = Debug|x86
+		{0346153D-230A-4284-90D5-A8B4683E050B}.Debug|x86.Build.0 = Debug|x86
+		{0346153D-230A-4284-90D5-A8B4683E050B}.Release|x86.ActiveCfg = Release|x86
+		{0346153D-230A-4284-90D5-A8B4683E050B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

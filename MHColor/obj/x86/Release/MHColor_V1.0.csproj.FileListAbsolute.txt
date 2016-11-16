@@ -1,0 +1,11 @@
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\bin\Release\MHColor_V1.0.exe
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\bin\Release\MHColor_V1.0.pdb
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MabinogiHeroColor.Form1.resources
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor.Form2.resources
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor.Properties.Resources.resources
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.csproj.GenerateResource.Cache
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.exe
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.pdb
+C:\Users\james\Documents\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.csprojResolveAssemblyReference.cache
+G:\Google 雲端硬碟\Backup20160204\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.exe
+G:\Google 雲端硬碟\Backup20160204\Visual Studio 2010\Projects\MabinogiHeroColor\MabinogiHeroColor\obj\x86\Release\MHColor_V1.0.pdb
