@@ -1,0 +1,8 @@
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.1.exe
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.1.pdb
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.1.exe
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.1.pdb
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MabinogiHeroColor.Form1.resources
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor.Form2.resources
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor.Properties.Resources.resources
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.1.csproj.GenerateResource.Cache

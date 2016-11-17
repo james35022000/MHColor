@@ -10,11 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		MHColor\Form2.cs = MHColor\Form2.cs
 		MHColor\Form2.Designer.cs = MHColor\Form2.Designer.cs
 		MHColor\Form2.resx = MHColor\Form2.resx
-		MHColor\MHColor_V1.0.csproj = MHColor\MHColor_V1.0.csproj
 		MHColor\Program.cs = MHColor\Program.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHColor_V1.0", "MHColor\MHColor_V1.0.csproj", "{0346153D-230A-4284-90D5-A8B4683E050B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHColor_V1.1", "MHColor\MHColor_V1.1.csproj", "{0346153D-230A-4284-90D5-A8B4683E050B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

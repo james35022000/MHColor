@@ -16,12 +16,12 @@ C:\Users\Jack-PC\Documents\GitHub\MabinogiHeroColor\MHColor\obj\x86\Debug\Mabino
 C:\Users\Jack-PC\Documents\GitHub\MabinogiHeroColor\MHColor\obj\x86\Debug\MHColor.Form2.resources
 C:\Users\Jack-PC\Documents\GitHub\MabinogiHeroColor\MHColor\obj\x86\Debug\MHColor.Properties.Resources.resources
 C:\Users\Jack-PC\Documents\GitHub\MabinogiHeroColor\MHColor\obj\x86\Debug\MHColor_V1.0.csproj.GenerateResource.Cache
-C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.0.exe
-C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.0.pdb
-C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.0.exe
-C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.0.pdb
 C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.0.csprojResolveAssemblyReference.cache
 C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MabinogiHeroColor.Form1.resources
 C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor.Form2.resources
 C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor.Properties.Resources.resources
 C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.0.csproj.GenerateResource.Cache
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.1.exe
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\bin\Debug\MHColor_V1.1.pdb
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.1.exe
+C:\Users\Jack-PC\Documents\GitHub\MHColor\MHColor\obj\x86\Debug\MHColor_V1.1.pdb
