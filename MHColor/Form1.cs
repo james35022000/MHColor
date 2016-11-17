@@ -107,14 +107,13 @@ namespace MabinogiHeroColor
             }
         }
         //擷取色板-------------------------------------------------
-        private void button3_Click_1(object sender, EventArgs e)
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
-            left = true;
-            ColorBoard();
-        }
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            left = false;
+            MouseEventArgs me = (MouseEventArgs)e;
+            if (me.X <= 128)
+                left = true;
+            else
+                left = false;
             ColorBoard();
         }
         private void ColorBoard()
@@ -201,7 +200,7 @@ namespace MabinogiHeroColor
                             Convert.ToInt32(MHColor.color_map_construct.Color_map[i + 80, j]) +
                             Convert.ToInt32(MHColor.color_map_construct.Color_map[i, j + 40]) +
                             Convert.ToInt32(MHColor.color_map_construct.Color_map[i + 40, j + 40]) +
-                            Convert.ToInt32(MHColor.color_map_construct.Color_map[i + 80, j + 40]) == Convert.ToInt32(comboBox1.SelectedValue.ToString()))
+                            Convert.ToInt32(MHColor.color_map_construct.Color_map[i + 80, j + 40]) >= Convert.ToInt32(comboBox1.SelectedValue.ToString()))
                             listBox1.Items.Add(i.ToString() + " " + j.ToString());
                         progressBar1.Value += 1;
                     }
@@ -330,14 +329,5 @@ namespace MabinogiHeroColor
             form2.Show();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            MouseEventArgs me = (MouseEventArgs)e;
-            if (me.X <= 128)
-                left = true;
-            else
-                left = false;
-            ColorBoard();
-        }
     }
 }

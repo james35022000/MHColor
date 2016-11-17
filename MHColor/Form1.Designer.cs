@@ -148,7 +148,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(364, 55);
             this.label1.TabIndex = 18;
-            this.label1.Text = "MHColor V1.0";
+            this.label1.Text = "MHColor V1.1";
             // 
             // button4
             // 

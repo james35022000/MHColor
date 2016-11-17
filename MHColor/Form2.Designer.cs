@@ -58,7 +58,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(91, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "MHColor V1.0";
+            this.label2.Text = "MHColor V1.1";
             // 
             // label3
             // 
@@ -91,7 +91,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 15);
             this.label5.TabIndex = 4;
-            this.label5.Text = "2015/12/12";
+            this.label5.Text = "2016/11/17";
             // 
             // label7
             // 
@@ -140,7 +140,7 @@
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "關於";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);
