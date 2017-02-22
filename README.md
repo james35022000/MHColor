@@ -1,5 +1,5 @@
 # MHColor
-Mabinogi Heros stain finding applicaion.
+Mabinogi Heros stain finding application.
 
 ## Features  
 
