@@ -3,7 +3,7 @@ Mabinogi Heros stain finding application.
 
 ## Features  
 
-  1. Anaylze the color board automatically.  
+  1. Analyze the color board automatically.  
   2. Control your mouse to choose the point on the color board.
   
 ## How to use  
